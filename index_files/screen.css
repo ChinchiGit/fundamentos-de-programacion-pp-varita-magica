@@ -937,6 +937,21 @@ table {
   margin-left: 25px;
 }
 
+.pMouseOver{
+    background-color: #000;
+    color: #57A3E8;
+}
+
+.sectionMouseOver{
+    background-color: grey;
+    color: burlywood;
+}
+
+.articleMouseOver{
+    background-color: violet;
+    color: aquamarine;
+}
+
 /* ==========================================================================
    9. Media Queries - Smaller than 740px
    ========================================================================== */
